@@ -1,0 +1,26 @@
+from Food import Garins,Fruit,Vagitable,DryFruit,x,y,Display
+
+p = Garins()
+
+# print(p.a)
+# print(p.b)
+# p.Show_name()
+# print('----------------------------------------')
+# p = Fruit()
+# print(p.a)
+# print(p.b)
+# p.Show_name()
+# print('----------------------------------------')
+# p = Vagitable()
+# print(p.a)
+# print(p.b)
+# p.Show_name()
+# print('----------------------------------------')
+# p = DryFruit()
+# print(p.a)
+# print(p.b)
+# p.Show_name()
+
+# print(x)
+# print(y)
+# Display()
